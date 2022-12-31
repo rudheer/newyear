@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/newyear/static/js/main.1e6a9c55.js",
+    "static/media/photu.jpeg": "/newyear/static/media/photu.2cf2c613ea2d3c7a54ec.jpeg",
+    "index.html": "/newyear/index.html",
+    "main.1e6a9c55.js.map": "/newyear/static/js/main.1e6a9c55.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e6a9c55.js"
+  ]
+}
